@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Robot arm control with Reinforcement Learning
 
 ![anim](https://github.com/kaymen99/Robot-arm-control-with-RL/assets/83681204/224cf960-43d8-4bdc-83be-ac8fe37e5be9)
@@ -60,15 +59,4 @@ The training of both agents was done in the colab environment :
 </table>
 </div>
 
-<!-- Contact -->
-## Contact
 
-If you have any questions, feedback, or issues, please don't hesitate to open an issue or reach out to me: aymenMir1001@gmail.com.
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-=======
-# Arm_control_with_-RL
->>>>>>> 2fee3b594f6b3cee6bc32588df487b32784ecdf5
